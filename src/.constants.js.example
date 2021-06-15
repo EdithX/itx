@@ -1,5 +1,5 @@
 module.exports = Object.freeze({
-  TOKEN: '1821575125:AAEzDl0all_lclEZ3BkpO5M_vqd8--KzSHc',
+  TOKEN: '1821575125:AAEV8kYzZCMtIV12MM9qlrhiPp7nIfP_y6o',
   ARIA_SECRET: 'myaria2',
   ARIA_DOWNLOAD_LOCATION: '/home/user/path/to/download/dir (no trailing "/")',
   ARIA_DOWNLOAD_LOCATION_ROOT: '/', //The mountpoint that contains ARIA_DOWNLOAD_LOCATION
@@ -27,7 +27,7 @@ module.exports = Object.freeze({
   },
   IS_TEAM_DRIVE: true,
   USE_SERVICE_ACCOUNT: true,
-  INDEX_DOMAIN: "https://edithseedbox.tk/6:",
+  INDEX_DOMAIN: "https://edithseedbox.tk/6:/",
   TELEGRAPH_TOKEN: '7284b66455d2fe5d0aa815642449f7975a0a91d7ee5d72bf92fcd0bb4a3d', // Telegraph token, if you want to show search results in telegra.ph else keep it blank,
   STOP_DUPLICATE_MIRRORS: true // To stop duplicate mirror
 });

@@ -1979,10 +1979,10 @@ lru-cache@^6.0.0:
   dependencies:
     yallist "^4.0.0"
 
-m3u8stream@^0.8.3:
-  version "0.8.3"
-  resolved "https://registry.npmjs.org/m3u8stream/-/m3u8stream-0.8.3.tgz"
-  integrity sha512-0nAcdrF8YJKUkb6PzWdvGftTPyCVWgoiot1AkNVbPKTeIGsWs6DrOjifrJ0Zi8WQfQmD2SuVCjkYIOip12igng==
+m3u8stream@^0.8.4:
+  version "0.8.4"
+  resolved "https://registry.yarnpkg.com/m3u8stream/-/m3u8stream-0.8.4.tgz#15b49d0c2b510755ea43c1e53f85d7aaa4dc65c2"
+  integrity sha512-sco80Db+30RvcaIOndenX6E6oQNgTiBKeJbFPc+yDXwPQIkryfboEbCvXPlBRq3mQTCVPQO93TDVlfRwqpD35w==
   dependencies:
     miniget "^4.0.0"
     sax "^1.2.4"
@@ -3194,11 +3194,11 @@ yocto-queue@^0.1.0:
   resolved "https://registry.npmjs.org/yocto-queue/-/yocto-queue-0.1.0.tgz"
   integrity sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==
 
-ytdl-core@^4.8.0:
-  version "4.8.0"
-  resolved "https://registry.yarnpkg.com/ytdl-core/-/ytdl-core-4.8.0.tgz#d9f037a370a4b984f1f937e7a11b4531e8959443"
-  integrity sha512-LFhhwqFojReoaME17VpsFeiamygM0W/YNG8O02mrmS2O6Em5LjCPiJYdq7Af3CmJtBEOCdptSZ3Ql+3LGWDGvg==
+ytdl-core@^4.9.2:
+  version "4.9.2"
+  resolved "https://registry.yarnpkg.com/ytdl-core/-/ytdl-core-4.9.2.tgz#c2d1ec44ee3cabff35e5843c6831755e69ffacf0"
+  integrity sha512-aTlsvsN++03MuOtyVD4DRF9Z/9UAeeuiNbjs+LjQBAiw4Hrdp48T3U9vAmRPyvREzupraY8pqRoBfKGqpq+eHA==
   dependencies:
-    m3u8stream "^0.8.3"
+    m3u8stream "^0.8.4"
     miniget "^4.0.0"
     sax "^1.1.3"
